@@ -1,0 +1,13 @@
+{
+  "name": "hampusborgos/country-flags",
+  "description": "SVG and PNG renders of all countries' flags.",
+  "author": "Hampus Nilsson",
+  "homepage": "https://hampusborgos.github.io/country-flags/",
+  "keywords": [
+    "flags",
+    "countries",
+    "country",
+    "svg"
+  ],
+  "license": "PD",
+}
